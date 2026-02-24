@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+npm-debug.log*
+
+# Uploads (optional: remove if you want to track sample uploads)
+uploads/*
+!uploads/.gitkeep
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
